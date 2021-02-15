@@ -3,7 +3,7 @@
 <center>
 My Sosmed :
 
-<a href="https://web.facebook.com/ramlan.redfield.3"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/iamramlan_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   <a href="https://wa.me/6285559240360"><img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/WhatsApp.png" alt="alt text" width="21" height="21"></a>
+<a href="https://m.facebook.com/XNzulMods/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/r00t_xnzul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   <a href="https://wa.me/6283173142772"><img src="https://raw.githubusercontent.com/xnzul/xnzul/main/img/WhatsApp.png" alt="alt text" width="21" height="21"></a>
  &nbsp;&nbsp; 
 
 
@@ -14,17 +14,17 @@ My Sosmed :
 
 
 
-Contact : ramlangans666@gmail.com
+Contact : sundaxploitimdonesia@gmail.com
 
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 Donate For Me:
 
-* [`Saweria`](https://saweria.co/ramlangans)
+* [`Saweria`](https://saweria.co/XNzul)
 
-<img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/donate.png" width="148">
+<img src="https://raw.githubusercontent.com/xnzul/xnzul/main/img/donate.png" width="148">
 
 ---
-<img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/kawaii.gif">
+<img src="https://raw.githubusercontent.com/xnzul/xnzul/main/img/kawaii.gif">
 
 ---
 
