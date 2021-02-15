@@ -1,4 +1,4 @@
-### Hallo Bep <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+### Hallo Bep <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm NzulXploit
 <img src="https://github.com/xnzul/xnzul/blob/main/img/NzulXsex.jpg" width=120 height="120" align="left">
 <center>
 My Sosmed :
@@ -34,14 +34,14 @@ Donate For Me:
 ## Stats
 
 <a href="https://github.com/Ramlan666"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan666&show_icons=true&theme=radical"></a>
-<a href="https://github.com/Ramlan666"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlan666&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/xnzul"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlan666&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Ramlan666&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlan666&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="Ramlan666"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Ramlan666&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnzul&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="xnzul"/> </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramlan666">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnzul">
 </p>
 
 ## Trophies
