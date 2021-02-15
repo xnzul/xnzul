@@ -33,7 +33,7 @@ Donate For Me:
 ---
 ## Stats
 
-<a href="https://github.com/Ramlan666"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan666&show_icons=true&theme=radical"></a>
+<a href="https://github.com/xnzul"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan666&show_icons=true&theme=radical"></a>
 <a href="https://github.com/xnzul"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlan666&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
