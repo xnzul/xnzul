@@ -24,7 +24,7 @@ Donate For Me:
 <img src="https://raw.githubusercontent.com/xnzul/xnzul/main/img/donate.png" width="148">
 
 ---
-<img src="https://raw.githubusercontent.com/xnzul/xnzul/main/img/kawaii.gif">
+<img src="https://i.ibb.co/vLpR9xQ/MOSHED-2020-9-14-7-4-9.gif">
 
 ---
 
