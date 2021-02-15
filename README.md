@@ -21,16 +21,9 @@ Donate For Me:
 
 * [`Saweria`](https://saweria.co/XNzul)
 
-<img src="https://raw.githubusercontent.com/xnzul/xnzul/main/img/donate.png" width="148">
-
----
 <img src="https://i.ibb.co/vLpR9xQ/MOSHED-2020-9-14-7-4-9.gif">
 
----
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
-
----
 ## Stats
 
 <a href="https://github.com/xnzul"><img src="https://github-readme-stats.vercel.app/api?username=xnzul&show_icons=true&theme=radical"></a>
